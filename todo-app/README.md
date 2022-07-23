@@ -1,19 +1,37 @@
-# React Project 1 : Todo App
+# Todo App
 
-<!-- toc -->
+Simple todo app
 
-<!-- - [Installation](#installation)
-- [Upgrade from v0.4](#upgrade-from-v04)
-- [Example](#example)
-- [More examples](#more-examples)
-- [Custom blocks](#custom-blocks)
-- [Available webpack blocks](#available-webpack-blocks)
-- [Helpers](#helpers)
-- [Shorthand setters](#shorthand-setters)
-- [Third-party blocks](#third-party-blocks)
-- [Design principles](#design-principles)
-- [FAQ](#faq)
-- [Like what you see?](#like-what-you-see)
-- [License](#license) -->
+![Preview Image](preview.webp)
 
-<!-- tocstop -->
+## Usage
+
+### npm
+``` 
+$ npm run dev
+```
+### pnpm
+
+```
+$ pnpm run dev
+```
+
+## Technologies I Learned and Used
+
+* [pnpm](https://pnpm.io/)
+    * install packages
+    * add packages
+    * run script
+* [react](https://reactjs.org/)
+    * jsx syntax
+    * rendering html elements
+    * state hook
+    * handle form submit event
+    * onClick functions
+    * list an array via map function
+* [tailwind](https://tailwindcss.com/)
+    * install and init tailwind
+    * use some class
+    * set custom color classes
+* [vite](https://vitejs.dev/)
+    * create react project
